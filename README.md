@@ -4,3 +4,5 @@
   - 3次元座標上での可視化と各種表現の変換
 - [3次元回転のまとめ](https://kamino.hatenablog.com/entry/rotation_expressions)
   - 3次元回転の各種表現の解説
+- [AI研究者向け研修資料](https://cyberagent.ai/blog/research/20228/)
+  - サイバーエージェントが公開している研修資料
